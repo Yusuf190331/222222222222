@@ -1,0 +1,48 @@
+{
+    "botSettings": {
+        "token": "ODI0MjM2MTE4NzQwMTcyODEx.YFsbtA.B2sdMKilpLTKCe2gh3dfenCGImk",
+        "owners": [
+            "452545429184184330"
+        ],
+        "prefix": ".",
+        "botStatus": "Alkan ? Zeus",
+        "botVoiceChannelID": "823998328668815431",
+        "mongoURL": "mongodb+srv://alkan:alkan123@cluster0.lfmex.mongodb.net/alkan?retryWrites=true&w=majority"
+    },
+    "channelSettings": {
+        "register": "823998327770316823",
+        "rules": "823998328030756896",
+        "wlcmessageChannel": "823998329033326654"
+    },
+    "roleSettings": {
+        "registerer": "823998327212212297",
+        "vipRole": "823998327095820346",
+        "teamRole": "823998327128719436",
+        "musicianRole": "818916029186179164",
+        "otherRole": "",
+        "booster": [
+            ""
+        ],
+        "unregisteredRole": [
+            "823998327086383114"
+        ],
+        "girlRole": [
+            "823998327095820339"
+        ],
+        "boyRole": [
+            "823998327086383122"
+        ]
+    },
+    "colors": {
+        "redColor": "RED",
+        "magentaColor": "#AF48F1",
+        "blackColor": "0f3057",
+        "goldColor": "ffe5b9",
+        "myshlumColor": "cd5d7d"
+    },
+    "serverSettings": {
+        "serverID": "823998327011934290",
+        "serverTag": "✯",
+        "unTag": "*"
+    }
+}
